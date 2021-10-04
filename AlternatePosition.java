@@ -1,3 +1,4 @@
+// Rearrange array in alternating positive and negative number
 import java.util.Arrays; 
 class AlternatePosition
 {
