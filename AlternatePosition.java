@@ -31,7 +31,7 @@ class AlternatePosition
  
     public static void main(String[] args)
     {
-        int[] A = { 7, -1, -2, -5, -9,8, 6, 3 };
+        int[] A = { 7, -1, -2, -5, -9, 8, 6, 3 };
         System.out.println("Before Rearrange: " + Arrays.toString(A));
         rearrange(A);
         System.out.println("After Rearrange: " + Arrays.toString(A));
